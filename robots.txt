@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hirackes.github.io/sitemap.hirackes.gz
+Sitemap: https://hirackes.github.io/app/sitemap.hirackes.gz
+Sitemap: https://hirackes.github.io/assets/sitemap.hirackes.gz
+Sitemap: https://hirackes.github.io/css/sitemap.hirackes.gz
+Sitemap: https://hirackes.github.io/data/sitemap.hirackes.gz
+Sitemap: https://hirackes.github.io/includes/sitemap.hirackes.gz
+Sitemap: https://hirackes.github.io/item/sitemap.hirackes.gz
+Sitemap: https://hirackes.github.io/src/sitemap.hirackes.gz
